@@ -1,9 +1,9 @@
 <h1 align="center">
-	<img alt="Logo" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg" width="200px" />
+	<img alt="Logo" src="" width="200px" />
 </h1>
 
 <h3 align="center">
-  RocketShoes - Props
+  c
 </h3>
 
 
@@ -37,7 +37,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/LFelpsDev/RocketShoes-Props.git && cd RocketShoes-Props
+$ git clone https://github.com/LFelpsDev/WatchMe.git && cd WatchMe
 ```
 
 **Follow the steps below**
@@ -59,7 +59,7 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork LFelpsDev/RocketShoes-Props
+$ gh repo fork LFelpsDev/WatchMe
 ```
 
 
