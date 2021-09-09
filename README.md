@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  WatchMe
+  WatchMe-Props
 </h3>
 
 
@@ -37,7 +37,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/LFelpsDev/WatchMe.git && cd WatchMe
+$ git clone https://github.com/LFelpsDev/WatchMe-Props.git && cd WatchMe-Props
 ```
 
 **Follow the steps below**
@@ -59,7 +59,7 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork LFelpsDev/WatchMe
+$ gh repo fork LFelpsDev/WatchMe-Props
 ```
 
 
